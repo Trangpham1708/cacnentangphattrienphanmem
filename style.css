@@ -1,0 +1,22 @@
+.intro {
+    background-image: linear-gradient(to bottom right, #FF3CAC, #784BA0);
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ 
+  
+  h1 {
+    color: #333;
+    font-size: 36px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
